@@ -1,5 +1,6 @@
 ## All Uploader Bot ❤️
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/lMYZw5?referralCode=akash2006)
+###
 [![Sparkline](https://stars.medv.io/kalanakt/All-Url-Uploader.svg)](https://stars.medv.io/kalanakt/All-Url-Uploader)
 
 
