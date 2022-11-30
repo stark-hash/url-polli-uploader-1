@@ -17,7 +17,7 @@
 ```
 • Upload HTTP/HTTPS as File/Video to Telegram.
 
-• Upload zee5, sony.live, voot and much more 😋
+• Upload, sony.live, voot and much more 😋
 
 • Broadcast message, check total users
 
