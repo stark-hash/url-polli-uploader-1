@@ -20,3 +20,4 @@ filetype
 ffmpeg
 moviepy
 wget
+yt-dlp
